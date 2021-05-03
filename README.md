@@ -7,6 +7,7 @@ A collection of small things that I once learned and decided to write down.
 ### AWS
 
 * [How to make an HTTP request with AWS Lambda](/aws/lambda-make-http-request.md)
+* [How to use npm packages in AWS Lambda](/aws/lambda-install-npm-package.md)
 
 ### Node.js
 
