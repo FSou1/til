@@ -11,3 +11,4 @@ A collection of small things that I once learned and decided to write down.
 ### Node.js
 
 * [How to decode a GZip response with Node.js](/nodejs/gzip-encoding-response.md)
+* [How to parse an HTML page with Node.js](/nodejs/parse-html.md)
