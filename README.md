@@ -8,6 +8,7 @@ A collection of small things that I once learned and decided to write down.
 
 * [How to make an HTTP request with AWS Lambda](/aws/lambda-make-http-request.md)
 * [How to use npm packages in AWS Lambda](/aws/lambda-install-npm-package.md)
+* [How to invoke AWS Lambda at a sub-minute frequency](/aws/lambda-invoke-at-sub-minute-frequency.md)
 
 ### Node.js
 
