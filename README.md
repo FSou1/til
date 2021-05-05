@@ -14,6 +14,8 @@ A collection of small things that I once learned and decided to write down.
 
 * [How to decode a GZip response with Node.js](/nodejs/gzip-encoding-response.md)
 * [How to parse an HTML page with Node.js](/nodejs/parse-html.md)
+* [How to use WebSocket connections with Node.js](/nodejs/use-web-sockets.md)
+* [How to increase WebSocket performance](/nodejs/increase-ws-performance.md)
 
 ### 7z
 
