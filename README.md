@@ -18,6 +18,10 @@ A collection of small things that I once learned and decided to write down.
 * [How to increase WebSocket performance](/nodejs/increase-ws-performance.md)
 * [How to execute a Powershell script](/nodejs/execute-powershell.md)
 
+### React
+
+* [How to fix 'Refused to execute inline script' (Chrome extension)](/react/refused-to-execute-inline-script)
+
 ### 7z
 
 * [How to create a Zip archive with CLI](/7z/create-zip-with-cli.md)
