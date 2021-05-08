@@ -21,6 +21,7 @@ A collection of small things that I once learned and decided to write down.
 ### React
 
 * [How to fix 'Refused to execute inline script' (Chrome extension)](/react/refused-to-execute-inline-script)
+* [How to fix 'chrome' is not defined (Chrome extension)](/react/chrome-is-not-defined.md)
 * [How to parse an HTML page](/react/parse-html.md)
 
 ### 7z
