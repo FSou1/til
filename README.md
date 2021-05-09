@@ -10,6 +10,11 @@ A collection of small things that I once learned and decided to write down.
 * [How to use npm packages](/aws/lambda-install-npm-package.md)
 * [How to invoke AWS Lambda at a sub-minute frequency](/aws/lambda-invoke-at-sub-minute-frequency.md)
 
+### JavaScript
+
+* [How to parse a price string](/javascript/parse-price.md)
+* [How to play an audio file](/javascript/play-audio.md)
+
 ### Node.js
 
 * [How to decode a GZip response](/nodejs/gzip-encoding-response.md)
