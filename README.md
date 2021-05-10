@@ -29,6 +29,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to fix 'chrome' is not defined (Chrome extension)](/react/chrome-is-not-defined.md)
 * [How to parse an HTML page](/react/parse-html.md)
 * [How to run the code once](/react/run-once.md)
+* [How to use setInterval](/react/use-interval.md)
 
 ### 7z
 
