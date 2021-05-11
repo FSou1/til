@@ -17,5 +17,7 @@ function Counter() {
 }
 ```
 
+> `useInterval` can be installed with `npm install --save use-interval`
+
 References:
 * https://overreacted.io/making-setinterval-declarative-with-react-hooks/
