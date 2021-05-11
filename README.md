@@ -29,6 +29,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to run the code once](/react/run-once.md)
 * [How to use setInterval](/react/use-interval.md)
 * [How to apply class names conditionally](/react/conditionally-apply-class-name.md)
+* [How to use font-awesome icons](/react/use-font-awesome.md)
 
 #### Chrome extension
 
