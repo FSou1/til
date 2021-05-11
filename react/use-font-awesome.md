@@ -18,3 +18,4 @@ const element = <FontAwesomeIcon icon={faCoffee} />
 
 References:
 * https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react
+* https://fontawesome.com/icons?d=gallery&p=2
