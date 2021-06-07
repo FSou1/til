@@ -15,6 +15,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to parse a price string](/javascript/parse-price.md)
 * [How to play an audio file](/javascript/play-audio.md)
 * [Named groups in regular expressions](/javascript/regex-named-groups.md)
+* [How to toggle a class of a DOM element](/javascript/toggle-class.md)
 
 ### Node.js
 
