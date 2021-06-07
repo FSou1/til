@@ -4,6 +4,10 @@ A collection of small things that I once learned and decided to write down.
 
 ## Topics
 
+### CSS
+
+* [Styling list bullets with emoji](/css/list-style-emoji.md)
+
 ### AWS
 
 * [How to make an HTTP request](/aws/lambda-make-http-request.md)
