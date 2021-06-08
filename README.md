@@ -21,6 +21,7 @@ A collection of small things that I once learned and decided to write down.
 * [Named groups in regular expressions](/javascript/regex-named-groups.md)
 * [How to toggle a class name of a DOM element](/javascript/toggle-class.md)
 * [How to add a class name to a DOM element](/javascript/add-class.md)
+* [How to toggle password visibility](/javascript/toggle-password-visibility.md)
 
 ### Node.js
 
