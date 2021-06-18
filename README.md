@@ -30,6 +30,8 @@ A collection of small things that I once learned and decided to write down.
 * [How to use WebSocket connections](/nodejs/use-web-sockets.md)
 * [How to increase WebSocket performance](/nodejs/increase-ws-performance.md)
 * [How to execute a Powershell script](/nodejs/execute-powershell.md)
+* [How to extract a folder path from a file path with Node.js](/nodejs/get-folder-path-from-file-path.md)
+* [How to combine a path from parts with Node.js](/nodejs/combine-path-from-parts.md)
 
 ### React
 
