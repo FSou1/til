@@ -41,3 +41,6 @@ If you are wondering what `classes` actually is, then let me answer that it is j
 ```
 
 By default, neither the react nor the app does not throw any errors if the CSS rule does not exist.
+
+References:
+* https://www.robinwieruch.de/react-css-styling
