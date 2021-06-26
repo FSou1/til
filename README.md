@@ -40,8 +40,9 @@ A collection of small things that I once learned and decided to write down.
 * [How to use setInterval](/react/use-interval.md)
 * [How to apply class names conditionally](/react/conditionally-apply-class-name.md)
 * [How to use font-awesome icons](/react/use-font-awesome.md)
-* [How to create a layout](/react/create-layout.md)
-* [How to render components without a root wraper](/react/no-wrapper-render.md)
+* [Implement a layout](/react/create-layout.md)
+* [Render components without a root wraper](/react/no-wrapper-render.md)
+* [Import classes and use them in a component](/react/export-classes.md)
 
 #### Chrome extension
 
