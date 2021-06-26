@@ -43,6 +43,7 @@ A collection of small things that I once learned and decided to write down.
 * [Implement a layout](/react/create-layout.md)
 * [Render components without a root wraper](/react/no-wrapper-render.md)
 * [Import classes and use them in a component](/react/export-classes.md)
+* [Run typechecking on the props](/react/run-type-checking.md)
 
 #### Chrome extension
 
