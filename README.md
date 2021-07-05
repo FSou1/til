@@ -44,6 +44,7 @@ A collection of small things that I once learned and decided to write down.
 * [Render components without a root wraper](/react/no-wrapper-render.md)
 * [Import classes and use them in a component](/react/export-classes.md)
 * [Run typechecking on the props](/react/run-type-checking.md)
+* [How to pass CSS styles to a child component](/react/control-child-styles.md)
 
 #### Chrome extension
 
