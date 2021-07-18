@@ -45,6 +45,7 @@ A collection of small things that I once learned and decided to write down.
 * [Import classes and use them in a component](/react/export-classes.md)
 * [Run typechecking on the props](/react/run-type-checking.md)
 * [How to pass CSS styles to a child component](/react/control-child-styles.md)
+* [How to add meta tags](/react/meta-tags.md)
 
 #### Chrome extension
 
