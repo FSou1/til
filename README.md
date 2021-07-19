@@ -46,7 +46,12 @@ A collection of small things that I once learned and decided to write down.
 * [Run typechecking on the props](/react/run-type-checking.md)
 * [How to pass CSS styles to a child component](/react/control-child-styles.md)
 * [How to add meta tags](/react/meta-tags.md)
-
+* [How to specify inline styles](/react/inline-styles.md)
+* [How to use jQuery](/react/use-jquery.md)
+* [How to access a /public image](/react/import-public-image.md)
+* [How to access a /public css](/react/import-public-css.md)
+* [How to run code after render](/react/run-code-after-render.md)
+* [Property 'X' does not exist on type](/react/property-does-not-exist.md)
 #### Chrome extension
 
 * [How to fix 'Refused to execute inline script' (Chrome extension)](/react/refused-to-execute-inline-script)
