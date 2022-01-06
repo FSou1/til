@@ -4,6 +4,10 @@ A collection of small things that I once learned and decided to write down.
 
 ## Topics
 
+### Programming
+
+* [Estimating](/programming/estimating.md)
+
 ### CSS
 
 * [Styling list bullets with emoji](/css/list-style-emoji.md)
