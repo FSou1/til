@@ -8,6 +8,7 @@ A collection of small things that I once learned and decided to write down.
 
 * [Estimating](/programming/estimating.md)
 * [The power of plain text](/programming/plain-text-power.md)
+* [The power of command line](/programming/command-line.md)
 
 ### CSS
 
