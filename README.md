@@ -11,6 +11,7 @@ A collection of small things that I once learned and decided to write down.
 * [The power of command line](/programming/command-line.md)
 * [Debugging](/programming/debugging.md)
 * [Fortune telling](/programming/fortune-telling.md)
+* [Tell, don't ask](/programming/tda.md)
 
 ### CSS
 
