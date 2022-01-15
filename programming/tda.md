@@ -51,3 +51,8 @@ We can end-up with `customer.applyDiscountToOrder(order_id)` but the best is the
 
 
 ![TDA](./images/tda.png)
+
+References:
+* The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition)
+* https://martinfowler.com/bliki/TellDontAsk.html
+* https://deviq.com/principles/tell-dont-ask
