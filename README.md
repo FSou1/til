@@ -61,7 +61,8 @@ A collection of small things that I once learned and decided to write down.
 * [How to access a /public css](/react/import-public-css.md)
 * [How to run code after render](/react/run-code-after-render.md)
 * [Property 'X' does not exist on type](/react/property-does-not-exist.md)
-#### Chrome extension
+
+### Chrome extension
 
 * [How to fix 'Refused to execute inline script' (Chrome extension)](/react/refused-to-execute-inline-script)
 * [How to fix 'chrome' is not defined (Chrome extension)](/react/chrome-is-not-defined.md)
@@ -70,3 +71,7 @@ A collection of small things that I once learned and decided to write down.
 ### 7z
 
 * [How to create a Zip archive with CLI](/7z/create-zip-with-cli.md)
+
+### Next.js
+
+* [How to set up apollo client](/nextjs/apollo-client.md)
