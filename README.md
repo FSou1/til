@@ -75,3 +75,4 @@ A collection of small things that I once learned and decided to write down.
 ### Next.js
 
 * [How to set up apollo client](/nextjs/apollo-client.md)
+* [How to call an external API (e.g. GraphQL server)](/nextjs/rewrite-graphql.md)
