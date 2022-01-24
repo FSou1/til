@@ -72,6 +72,10 @@ A collection of small things that I once learned and decided to write down.
 
 * [How to create a Zip archive with CLI](/7z/create-zip-with-cli.md)
 
+### GraphQL
+
+* [How to represent a key-value object](/graphql/key-value-object.md)
+
 ### Next.js
 
 * [How to set up apollo client](/nextjs/apollo-client.md)
