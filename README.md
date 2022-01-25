@@ -81,3 +81,4 @@ A collection of small things that I once learned and decided to write down.
 * [How to set up apollo client](/nextjs/apollo-client.md)
 * [How to call an external API (e.g. GraphQL server)](/nextjs/rewrite-graphql.md)
 * [How to use useQuery during server-side rendering](/nextjs/use-query-ssr.md)
+* [How to cache and share data at build time](/nextjs/cache-share-data-md)
