@@ -75,6 +75,7 @@ A collection of small things that I once learned and decided to write down.
 ### GraphQL
 
 * [How to represent a key-value object](/graphql/key-value-object.md)
+* [How to implement pagination with GraphQL](/graphql/pagination.md)
 
 ### Next.js
 
