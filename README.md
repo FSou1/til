@@ -63,6 +63,10 @@ A collection of small things that I once learned and decided to write down.
 * [Property 'X' does not exist on type](/react/property-does-not-exist.md)
 * [How to handle checkbox change](/react/react-checkbox-onchange.md)
 
+#### Apollo
+
+* [How to implement filtering](/react/apollo-filtering.md)
+
 ### Chrome extension
 
 * [How to fix 'Refused to execute inline script' (Chrome extension)](/react/refused-to-execute-inline-script)
@@ -76,7 +80,7 @@ A collection of small things that I once learned and decided to write down.
 ### GraphQL
 
 * [How to represent a key-value object](/graphql/key-value-object.md)
-* [How to implement pagination with GraphQL](/graphql/pagination.md)
+* [How to implement pagination](/graphql/pagination.md)
 
 ### Next.js
 

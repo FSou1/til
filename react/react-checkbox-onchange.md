@@ -7,7 +7,6 @@ In order to react on a checkbox value change, you should:
 ```typescript
 const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
   const { checked } = e.target;
-
 };
 ```
 
