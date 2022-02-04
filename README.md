@@ -82,6 +82,7 @@ A collection of small things that I once learned and decided to write down.
 
 * [How to represent a key-value object](/graphql/key-value-object.md)
 * [How to implement pagination](/graphql/pagination.md)
+* [How to implement total count](/graphql/total-cound.md)
 
 ### Next.js
 
