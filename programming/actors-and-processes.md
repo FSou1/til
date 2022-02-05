@@ -28,6 +28,8 @@ The overall message flow:
 4. If the pie case has a slice available, it will send it to the customer and notify the waiter to add it to the bill:
    - `dispatch(msg.customer, { type: 'put on the table' })`
    - `dispatch(msg.waiter, { type: 'add to order' }, customer: msg.customer)`
+5. If there is no pie, the case tells the waiter, and the waiter apologizes to the customer:
+   - `dispatch(msg.waiter, { type: 'error', customer: msg.customer })`
 
 In the actor model, there's no need to write any code to handle concurrency. There's also no need to orchestrate like 'do this, do that'. The actors work it out for themselves based on the messages they receive.
 
