@@ -14,7 +14,7 @@ It's time to refactor if there is:
 
 ## Why should you refactor?
 
-* Time pressure is often used as an excuse for not refactoring. But this is wrong. The longer you wait, the more time investmend you'll need. There won't be more time available.
+Time pressure is often used as an excuse for not refactoring. But this is wrong. The longer you wait, the more time investments you'll need. There won't be more time available.
 
 If refactoring is a surgery operation, then you want to remove something that's growing sooner than later. You can go in now, and take it out while it's still small. Wait too long, and you may lose the patient.
 
