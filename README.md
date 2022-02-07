@@ -12,7 +12,8 @@ A collection of small things that I once learned and decided to write down.
 * [Debugging](/programming/debugging.md)
 * [Fortune telling](/programming/fortune-telling.md)
 * [Tell, don't ask](/programming/tda.md)
-* [Actors and processes](/programming//actors-and-processes.md)
+* [Actors and processes](/programming/actors-and-processes.md)
+* [Refactoring: when, why, how](/programming/refactoring-when-why-how.md)
 
 ### CSS
 
