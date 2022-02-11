@@ -14,6 +14,7 @@ A collection of small things that I once learned and decided to write down.
 * [Tell, don't ask](/programming/tda.md)
 * [Actors and processes](/programming/actors-and-processes.md)
 * [Refactoring: when, why, how](/programming/refactoring-when-why-how.md)
+* [Continuous testing](/programming/continuous-testing.md)
 
 ### CSS
 
