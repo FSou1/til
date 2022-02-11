@@ -15,6 +15,7 @@ A collection of small things that I once learned and decided to write down.
 * [Actors and processes](/programming/actors-and-processes.md)
 * [Refactoring: when, why, how](/programming/refactoring-when-why-how.md)
 * [Continuous testing](/programming/continuous-testing.md)
+* Delight users, solve problems, don't just deliver code
 
 ### CSS
 
