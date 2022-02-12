@@ -67,6 +67,7 @@ A collection of small things that I once learned and decided to write down.
 * [Property 'X' does not exist on type](/react/property-does-not-exist.md)
 * [How to handle checkbox change](/react/react-checkbox-onchange.md)
 * [Debouncing and throttling](/react/debouncing.md)
+* [How to use aliasses](/react/path-aliases.md)
 
 #### Apollo
 
