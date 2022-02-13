@@ -3,31 +3,27 @@
 In order to avoid the following problem:
 
 ```javascript
-import { User } from '../../user/model';
-import { Article } from '../../article/model';
+import { IPriceData, IVolumeData } from "../../../models/index";
 
-import { Cache } from '../../../../cache';
-import { MongoDB } from '../../../../mongodb';
+import { connectToDatabase } from '../../../lib/mongodb';
 ```
 
 You can add an alias to the `tsconfig.json` file:
 
 ```json
-"baseUrl": "./src",
+"baseUrl": ".",
 "paths": {
-    "@modules/*": ["rest/modules/*"],
-    "@services/*": ["services/*"]
+  "@models/*": ["models/*"],
+  "@lib/*": ["lib/*"]
 }
 ```
 
 So that the imports now look:
 
 ```javascript
-import { User } from '@modules/user/model';
-import { Article } from '@modules/article/model';
+import { IPriceData, IVolumeData } from "@models/index";
 
-import { Cache } from '@services/cache';
-import { MongoDB } from '@services/mongodb';
+import { connectToDatabase } from '@lib/mongodb';
 ```
 
 References:
