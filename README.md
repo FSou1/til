@@ -45,6 +45,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to execute a Powershell script](/nodejs/execute-powershell.md)
 * [How to extract a folder path from a file path with Node.js](/nodejs/get-folder-path-from-file-path.md)
 * [How to combine a path from parts with Node.js](/nodejs/combine-path-from-parts.md)
+* [How to use optional route parameters in Express](/nodejs/express-optional-parameter.md)
 
 ### React
 
