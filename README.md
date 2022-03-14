@@ -101,3 +101,7 @@ A collection of small things that I once learned and decided to write down.
 ### MongoDB
 
 * [How to delete multiple documents in a single query](/mongo/delete-many.md)
+
+### Git
+
+* [How to push an empty commit to remote](/git/empty-commit.md)
