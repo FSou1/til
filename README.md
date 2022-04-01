@@ -101,6 +101,7 @@ A collection of small things that I once learned and decided to write down.
 ### MongoDB
 
 * [How to delete multiple documents in a single query](/mongo/delete-many.md)
+* [How to return more than 20 items in a query](/mongo/find-batch-size.md)
 
 ### Git
 
