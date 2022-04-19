@@ -104,6 +104,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to return more than 20 items in a query](/mongo/find-batch-size.md)
 * [How to delete a document by id](/mongo/delete-one.md)
 * [How to select top N rows groupped by date](/mongo/top-grouped.md)
+* [How to check if a field contains a string](/mongo/string-regex.md)
 
 ### Git
 
