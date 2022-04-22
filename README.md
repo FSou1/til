@@ -69,6 +69,8 @@ A collection of small things that I once learned and decided to write down.
 * [How to handle checkbox change](/react/react-checkbox-onchange.md)
 * [Debouncing and throttling](/react/debouncing.md)
 * [How to use aliasses](/react/path-aliases.md)
+* [Why a component is rendered twice](/react/why-useeffect-called-twice.md)
+* [How to clean up when a component is destroyed](/react/destroy-hook.md)
 
 #### Apollo
 
