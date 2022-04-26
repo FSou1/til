@@ -107,6 +107,7 @@ A collection of small things that I once learned and decided to write down.
 * [How to delete a document by id](/mongo/delete-one.md)
 * [How to select top N rows groupped by date](/mongo/top-grouped.md)
 * [How to check if a field contains a string](/mongo/string-regex.md)
+* [How to implement pagination](/mongo/pagination.md)
 
 ### Git
 
