@@ -20,6 +20,7 @@ A collection of small things that I once learned and decided to write down.
 ### CSS
 
 * [Styling list bullets with emoji](/css/list-style-emoji.md)
+* [Image, gradient, and clip-path](/css/img-gradient-clip.md)
 
 ### AWS
 
