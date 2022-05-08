@@ -21,6 +21,7 @@ A collection of small things that I once learned and decided to write down.
 
 * [Styling list bullets with emoji](/css/list-style-emoji.md)
 * [Image, gradient, and clip-path](/css/img-gradient-clip.md)
+* [Align logo to top left](/css/logo-position.md)
 
 ### AWS
 
