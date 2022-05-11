@@ -115,3 +115,7 @@ A collection of small things that I once learned and decided to write down.
 ### Git
 
 * [How to push an empty commit to remote](/git/empty-commit.md)
+
+### TypeScript
+
+* [How to limit values to keys of an object](/typescript/key-of.md)
