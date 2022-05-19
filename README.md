@@ -119,3 +119,7 @@ A collection of small things that I once learned and decided to write down.
 ### TypeScript
 
 * [How to limit values to keys of an object](/typescript/key-of.md)
+
+### NPM
+
+* [How to list all versions of an npm module?](/npm/list-all-versions.md)
