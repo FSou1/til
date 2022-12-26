@@ -29,6 +29,8 @@ A collection of small things that I once learned and decided to write down.
 - [How selector priority conflicts are resolved](/css/conflicts-resolution.md)
 - [What pseudo elements are available in CSS?](/css/pseudo-elements.md)
 - [What is box-sizing property used for?](/css/box-sizing.md)
+- [Flexbox align-items](/css/flexbox-align-items.md)
+- [Flexbox justify-content](/css/flexbox-justify-content.md)
 
 ### AWS
 
