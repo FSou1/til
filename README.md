@@ -26,6 +26,8 @@ A collection of small things that I once learned and decided to write down.
 - [b vs strong](/css/b-vs-strong.md)
 - [i vs em](/css/i-vs-em.md)
 - [How to put an HTML boilerplate in VSCode](/css/vscode-html-boilerplate.md)
+- [How selector priority conflicts are resolved](/css/conflicts-resolution.md)
+- [What pseudo elements are available in CSS?](/css/pseudo-elements.md)
 
 ### AWS
 
