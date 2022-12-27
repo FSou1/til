@@ -31,6 +31,7 @@ A collection of small things that I once learned and decided to write down.
 - [What is box-sizing property used for?](/css/box-sizing.md)
 - [Flexbox align-items](/css/flexbox-align-items.md)
 - [Flexbox justify-content](/css/flexbox-justify-content.md)
+- [Flexbox cheatsheet](/css/flexbox-cheatsheet.md)
 
 ### AWS
 
