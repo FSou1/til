@@ -33,6 +33,8 @@ A collection of small things that I once learned and decided to write down.
 - [Flexbox justify-content](/css/flexbox-justify-content.md)
 - [Flexbox cheatsheet](/css/flexbox-cheatsheet.md)
 - [Grid cheatsheet](/css/grid-cheatsheet.md)
+- [Grid examples](/css/grid-examples.md)
+- [Grid multiple columns and cells](/css/grid-column-row.md)
 
 ### AWS
 
