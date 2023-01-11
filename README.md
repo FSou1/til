@@ -39,6 +39,7 @@ A collection of small things that I once learned and decided to write down.
 - [Viewport height and width](/css/viewport-height-width.md)
 - [How rem works](/css/how-rem-works.md)
 - [CSS shorthands](/css/shorthands.md)
+- [How to add a nice scaling effect on image hover?](/css/how-to-scale-an-image-on-hover.md)
 
 ### AWS
 
