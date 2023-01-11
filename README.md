@@ -38,6 +38,7 @@ A collection of small things that I once learned and decided to write down.
 - [How to use transform to perfectly align items](/css/align-with-transform.md)
 - [Viewport height and width](/css/viewport-height-width.md)
 - [How rem works](/css/how-rem-works.md)
+- [CSS shorthands](/css/shorthands.md)
 
 ### AWS
 
