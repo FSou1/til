@@ -17,6 +17,11 @@ A collection of small things that I once learned and decided to write down.
 - [Continuous testing](/programming/continuous-testing.md)
 - Delight users, solve problems, don't just deliver code
 
+### HTML
+
+- [What is an srcset attribute in an image tag used for?](/html/srcset.md)
+- [Create a ticket confirmation form](/html/create-ticket-confirmation-form.md)
+
 ### CSS
 
 - [Styling list bullets with emoji](/css/list-style-emoji.md)
